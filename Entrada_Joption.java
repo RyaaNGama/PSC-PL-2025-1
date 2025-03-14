@@ -10,7 +10,6 @@ double altura = Double.parseDouble(JOptionPane.showInputDialog("Digite sua altur
 
 int idadeStr = Integer.parseInt(idade);
 
-JOptionPane.showMessageDialog(null, nome +idadeStr + altura);
 
 JOptionPane.showMessageDialog(null, "Seu nome é " + nome + ", você tem " + idadeStr + " e sua altura é de " + altura);
 
